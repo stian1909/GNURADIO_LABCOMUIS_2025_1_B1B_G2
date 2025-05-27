@@ -5,3 +5,11 @@ Estas observaciones resaltan la importancia del parámetro Ka y del índice de m
 
 PARTE A:
 
+En la primera parte del laboratorio, se transmitió una señal modulada en amplitud (AM), realizando variaciones en la sensibilidad en amplitud (Ka) y en la amplitud del mensaje, con el objetivo de representar los tres casos clásicos de modulación AM: submodulación, modulación ideal y sobremodulación. Durante esta etapa, se observó que, a medida que el índice de modulación aumenta, también lo hace la relación señal a ruido (SNR), lo cual se traduce en una mayor potencia de la señal transmitida.
+Asimismo, en el analizador de espectros se evidenció que, aunque teóricamente las bandas lateral superior e inferior deben tener la misma potencia, en la práctica se presentan pequeñas diferencias. Estas se atribuyen a la presencia de ruido y a la respuesta no ideal del sistema de transmisión y medición.
+
+PARTE B:
+
+En la última parte del laboratorio, se procedió a medir el ancho de banda de una señal musical. Dado que el espectro de este tipo de señal varía constantemente en el tiempo, se utilizó una función de retención del valor máximo del analizador de espectros, la cual permite visualizar un espectro acumulado que refleja el contenido frecuencial más representativo a lo largo del tiempo. Esto permitió realizar una medición más precisa del ancho de banda según la regla de los 20 dB.
+Para el cálculo del índice de modulación, primero se determinó la amplitud de la portadora para cada caso. Esto se realizó configurando Ka = 0, lo que elimina el efecto del mensaje y deja únicamente la portadora. A partir de la señal observada en el osciloscopio, se midieron los valores pico positivos y negativos utilizando funciones de medición automáticas del equipo. Con estos valores, se despejó el índice de modulación aplicando la fórmula correspondiente. Tal como se explicó en apartados anteriores, las ligeras desviaciones respecto a los valores teóricos se deben principalmente al ruido presente en el sistema y a la resolución del osciloscopio.
+
