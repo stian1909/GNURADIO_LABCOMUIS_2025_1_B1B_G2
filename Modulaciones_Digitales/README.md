@@ -18,5 +18,9 @@ Para multiplexar varios canales usando división en el tiempo (TDM), se aplicaro
 ![gráfico](Evidencias/A5/Img_4.png)
 
 **PUNTO B**
+Parte 1:
+https://github.com/stian1909/GNURADIO_LABCOMUIS_2025_1_B1B_G2/blob/main/Modulaciones_Digitales/Evidencias/B5/Practica%205-B.pdf
 
+Parte 2:
+https://github.com/stian1909/GNURADIO_LABCOMUIS_2025_1_B1B_G2/blob/main/Modulaciones_Digitales/Evidencias/B5/Pr%C3%A1ctica%205B%20Segunda%20parte.pdf
 
