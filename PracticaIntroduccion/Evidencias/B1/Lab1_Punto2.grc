@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: Nicolas_Martinez_Jairo_Moreno_E1B_G6
+    author: Juan Vesga, Sebastian Solano
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
