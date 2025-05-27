@@ -1,0 +1,7 @@
+En la práctica 3, titulada “Modulaciones Lineales”, se estudiaron los tres casos principales de modulación en amplitud (AM), analizando el comportamiento de la señal al variar la sensibilidad en amplitud (Ka) y la amplitud del mensaje. Para ello, se utilizó GNU Radio junto con instrumentos de medición como el osciloscopio y el analizador de espectros.
+El índice de modulación se calculó como la relación entre la amplitud de la señal moduladora y la de la portadora. Durante las mediciones, se observaron ligeras variaciones atribuidas a la presencia de ruido y a las limitaciones de precisión de los equipos utilizados. El ancho de banda fue estimado aplicando la regla de los 20 dB, y en el caso de señales musicales, se recurrió a funciones especializadas del analizador de espectros para obtener lecturas más estables, dada la variabilidad temporal del contenido espectral.
+Los resultados mostraron que un mayor índice de modulación conlleva un aumento tanto en la relación señal-ruido (SNR) como en la potencia total de la señal transmitida. Aunque idealmente las bandas laterales en AM tienen igual potencia, se identificaron pequeñas discrepancias, posiblemente causadas por ruido y condiciones reales del canal.
+Estas observaciones resaltan la importancia del parámetro Ka y del índice de modulación en la conformación del espectro de la señal AM. Además, subrayan la necesidad de aplicar metodologías precisas y un análisis riguroso para garantizar que las mediciones obtenidas sean confiables y representativas del fenómeno estudiado.
+
+PARTE A:
+
